@@ -9,4 +9,11 @@ p{
     text-align: justify;
     margin: 20px;
 }
-
+ul{
+    color: green;
+    font-size: 1.2em;
+    margin: 20px;
+}
+li{
+    margin: 10px;
+}
